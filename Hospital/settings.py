@@ -69,7 +69,7 @@ MIDDLEWARE = [
 
 CORS_ALLOWED_ORIGINS = [
     
-    "https://hospital-administration.vercel.app/",
+    "https://hospital-administration.vercel.app",
     
 ]
 
